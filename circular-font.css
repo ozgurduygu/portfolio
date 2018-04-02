@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Circular';
+    src: url('fonts/CircularSpotifyTxTBlack.eot');
+    src: url('fonts/CircularSpotifyTxTBlack.eot') format('embedded-opentype'),
+         url('fonts/CircularSpotifyTxTBlack.woff2') format('woff2'),
+         url('fonts/CircularSpotifyTxTBlack.woff') format('woff'),
+         url('fonts/CircularSpotifyTxTBlack.ttf') format('truetype'),
+         url('fonts/CircularSpotifyTxTBlack.svg#CircularSpotifyTxTBlack') format('svg');
+}
