@@ -594,6 +594,16 @@ header#main_menu ul .category {
 
   		
 	}
+
+	#about {
+
+		display: none!important;
+	}
+
+	span#about {
+
+		display: none!important;
+	}
 }
 .projects .wrap .project a {
 	pointer-events: auto
