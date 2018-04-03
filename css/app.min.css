@@ -823,6 +823,11 @@ header#main_menu ul .category {
 	body.page #about, body.page .overlay {
 		display: none
 	}
+
+	#about {
+
+		display: none!important;
+	}
 }
 body.page #main_title {
 	display: none;
