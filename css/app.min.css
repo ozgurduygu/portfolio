@@ -589,9 +589,7 @@ header#main_menu ul .category {
 @media only screen and (max-width:1200px) { /* iphone trick */
 	.projects .wrap .project {
 		width: 100%!important;
-		width: 100%;
   		overflow-x: hidden;
-  		height: 100%;
   		position: fixed;
 	}
 }
