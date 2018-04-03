@@ -1,4 +1,4 @@
-@import url("https://use.typekit.net/btc7bre.css");
+
 
 a {
   color: black;
@@ -12,6 +12,7 @@ a {
 body {
   margin: 0!important;
   padding: 0!important;
+  overflow-x: hidden;
 }
 
 #body {
