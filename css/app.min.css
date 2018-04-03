@@ -590,7 +590,7 @@ header#main_menu ul .category {
 	.projects .wrap .project {
 		width: 100%!important;
   		overflow-x: hidden;
-  		position: fixed;
+  		
 	}
 }
 .projects .wrap .project a {
