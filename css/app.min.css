@@ -819,7 +819,7 @@ header#main_menu ul .category {
 	top: 0;
 	left: 100%
 }
-@media only screen and (max-width:1200px) {
+@media only screen and (min-width:1300px) {
 	body.page #about, body.page .overlay {
 		display: none
 	}
