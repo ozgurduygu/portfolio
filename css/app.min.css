@@ -588,7 +588,7 @@ header#main_menu ul .category {
 }
 @media only screen and (max-width:1200px) {
 	.projects .wrap .project {
-		width: 100%
+		width: 100%!important;
 	}
 }
 .projects .wrap .project a {
