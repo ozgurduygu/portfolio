@@ -27,7 +27,7 @@ body {
 #header {
   position: absolute;
   font-family: "Circular", sans-serif;
-  font-weight: bold;
+  
   font-size: 6vw;
   top: 12vw;
   left: 6vw;
@@ -46,7 +46,7 @@ body {
 #point-out {
   position: absolute;
   font-family: "Circular", sans-serif;
-  font-weight: bold;
+  
   font-size: 6vw;
   top: 44vw;
   left: 6vw;
@@ -73,7 +73,7 @@ body {
   position: absolute;
   color: white;
   font-family: "Circular", sans-serif;
-  font-weight: 800;
+  
   letter-spacing: -1.04vw;
   font-size: 12vw;
   margin-top: 10vw;
