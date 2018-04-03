@@ -604,6 +604,12 @@ header#main_menu ul .category {
 
 		display: none!important;
 	}
+
+	.project-img img {
+
+		width: 100%!important;
+
+	}
 }
 .projects .wrap .project a {
 	pointer-events: auto
